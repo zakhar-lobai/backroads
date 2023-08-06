@@ -1,4 +1,4 @@
-![Backroads-App](https://github.com/zakhar-lobai/backroads/assets/29870526/d02ffe38-41cf-4cba-886f-45029d0ca364)<div align='center'><img style="width:30%" src='https://zakharlobai-backroads.netlify.app/static/media/logo.08d970fd0ddb0af90a9c60fb965e56d2.svg'/></div>
+<div align='center'><img style="width:30%" src='https://zakharlobai-backroads.netlify.app/static/media/logo.08d970fd0ddb0af90a9c60fb965e56d2.svg'/></div>
 
 <h2>About the project</h2>
 
