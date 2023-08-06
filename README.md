@@ -15,6 +15,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://www.awesomescreenshot.com/image/42032941?key=1f75e583017e4d82f2d575a2f1ac6c8f'/>
+<img src='https://drive.google.com/file/d/1quNZLBnx5zY69WrIv56YihozTRiZuB3X/view?usp=drive_link'/>
 
 </div>
