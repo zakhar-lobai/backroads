@@ -4,7 +4,7 @@
 
   <p>A <b>tours</b> landing page is an online platform that allows users to choose tours for you. The website provides an easy-to-use interface for choosing, tours from a list.</p>
 
-👉 Live Demo: <a href='https://zakharlobai-backroads.netlify.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://zakharlobai-backroads.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
