@@ -15,6 +15,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://drive.google.com/file/d/1quNZLBnx5zY69WrIv56YihozTRiZuB3X/view?usp=drive_link'/>
+<img src='https://github.com/zakhar-lobai/backroads/assets/29870526/311c45c4-7f4f-4647-ad95-a567ac8b4cd4'/>
 
 </div>
